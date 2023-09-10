@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+
+}
+.yellow{
+    background-color: #fff600;
+}
+
+.red{
+    background-color: #C41E3A;
+
+}
+.green{
+    background-color: #097969;
+
+}
+
+.purple{
+    background-color: #7f3e98;
+}
+ /* ul{
+    text-align: left;
+}
+.delete{
+    color: red;
+}
+    
+div{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+} */
+
+.flash{
+    background-color: white;
+ 
+}
+.user-flash{
+    background-color: navy;
+
+}
